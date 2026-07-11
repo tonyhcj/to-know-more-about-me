@@ -22,7 +22,7 @@ If you want to use this project as a base to create your own website or want to 
 
 ```sh
 # Cloning the repository
-$ git clone https://github.com/tonydocafe/to-know-more-about-me.git
+$ git clone https://github.com/tonyhcj/to-know-more-about-me.git
 ```
 
 If you want to contribute, you can open a **pull request** or suggest something via **issues**.
