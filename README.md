@@ -2,7 +2,7 @@
 
 Hi, curious visitor! Welcome to the repository that powers my static website, where I share my projects, interests, and a little bit about what I'm up to at the moment!
 
-🌐 **Access my portfolio here:** [tonydocafe.github.io/to-know-more-about-me](https://tonydocafe.github.io/to-know-more-about-me/)
+🌐 **Access my portfolio here:** [tonyhcj.github.io/to-know-more-about-me](https://tonyhcj.github.io/to-know-more-about-me/)
 
 ## 🔍 What is this?
 This repository contains the files that make up my static website hosted on GitHub Pages. It serves as a digital portfolio to showcase the projects I'm working on and the topics that interest me the most at the moment.
