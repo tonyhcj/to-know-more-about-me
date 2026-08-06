@@ -50,7 +50,7 @@ body { margin: 0; font-family: Arial, sans-serif; overflow: hidden; }
     text-shadow: 2px 2px 4px black;
     min-height: 800px;
     max-width: 600px; 
-    text-align: right;
+    text-align: center;
     backdrop-filter: blur(10px); 
     border: 1px solid rgba(255,255,255,0.1);
 }
@@ -144,12 +144,12 @@ body { margin: 0; font-family: Arial, sans-serif; overflow: hidden; }
     white-space: nowrap;
     opacity: 0;
     transform: scaleX(0);
-    height: 40px;
+    height: 95px;
     display: flex;
     align-items: center;
     justify-content: center;
     transition: transform 0.3s ease-out, opacity 0.3s ease-out;
-    z-index: 1;
+    z-index: 10000;
 }
 
 
@@ -189,7 +189,7 @@ body { margin: 0; font-family: Arial, sans-serif; overflow: hidden; }
 }
 
 .social-icon:hover {
-    width: auto;
+    width: 300px;
     border-radius: 25px;
     padding-right: 160px; 
 }
@@ -419,7 +419,7 @@ h1[data-i18n] {
 
 @media (max-width: 1800px), (max-height: 900px) {
     body::before {
-        content: "Este site funciona melhor em notebooks e computadores!";
+        content: "Não disponivel";
         position: fixed;
         top: 0;
         left: 0;
