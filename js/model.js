@@ -31,9 +31,9 @@ const translations = {
         "pt": "Meu nome é Tony, e esta é uma página simples que criei para falar um pouco sobre os projetos e trabalhos dos quais participei e aqueles em que ainda estou trabalhando. Espero que gostem. Ficaria muito feliz em receber seus comentários, sugestões ou qualquer mensagem sobre o que acharam. Se puderem, me enviem uma mensagem nas minhas redes sociais para compartilhar suas opiniões. Toda troca de conhecimento contribui para o crescimento e para projetos futuros.  🚀"
     },
 
-    "instagram_tooltip": {
-        "en": "Visit Instagram",
-        "pt": "Acesse o Instagram"
+    "site_tooltip": {
+        "en": "Visit my site",
+        "pt": "Acesse o meu site"
     },
     "linkedin_tooltip": {
         "en": "Visit LinkedIn",
